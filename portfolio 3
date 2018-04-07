@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="styleSheet" href="css/style.css">
+</head>
+
+<body>
+    <!--*** MAIN PAGE LAYOUT DIV *** -->
+    <!-- HEADER BOX -->
+    <div class="headerBoxContainer">
+        <div class="headerBox">
+            <div class="header">
+                <h2>Nathan Fazzio</h2>
+            </div>
+            <!-- NAVIGATION MENU -->
+            <div class="linkNav">
+
+                <a href="index.html">About</a>
+                <a href="portfolio.html">Portfolio</a>
+                <a href="contact.html">Contact</a>
+
+            </div>
+        </div>
+    </div>
+    <div class="pageBox">
+
+
+        <br>
+        <br>
+        <br>
+        <div class="contentBox">
+            <br>
+            <!-- LINE ONE OF PICTURES -->
+            <div class="headerBoxContainer">
+            <h2 style="color:#4aaaa5">Contact</h2>
+        </div>
+            <div class="pictureBoxHolder">
+                <div class="pictureBox">text</div>
+                <img src="http://via.placeholder.com/250x250" alt="">
+            </div>
+            <div class="pictureBoxHolder"  >
+
+                <div class="pictureBox">text</div>
+                <img src="http://via.placeholder.com/250x250" alt="">
+            </div>
+            <!-- LINE TWO OF PICTURES -->
+
+
+            <div class="pictureBoxHolder"style="clear:both">
+               
+
+                <div class="pictureBox">text</div>
+                <img src="http://via.placeholder.com/250x250" alt="">
+            </div>
+            <div class="pictureBoxHolder">
+
+                <div class="pictureBox">text</div>
+                <img src="http://via.placeholder.com/250x250" alt="">
+
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+    </div>
+    </div>
+
+    <!-- END OF MAIN PAGE LAYOUT DIV -->
+    <div class="footer">
+        <p>Footer</p>
+    </div>
+
+</body>
+
+</html>
+<!-- <head>
+        <link rel="stylesheet" href="css/style.css">
+    <title>
+
+    </title>
+</head>
+
+<body>
+
+    <div class="nameBox">Nathan Fazzio</div>
+
+    
+    <div class="pictureBox">text</div>
+    <img src="http://via.placeholder.com/250x250" alt="" >
+
+</div>  
+
+</body> -->
